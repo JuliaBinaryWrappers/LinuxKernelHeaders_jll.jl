@@ -1,114 +1,333 @@
 [[LinuxKernelHeaders]]
 arch = "aarch64"
-git-tree-sha1 = "d9d97aa89884773723b84c9883dbc107df1069d2"
-host = "any"
+git-tree-sha1 = "82f18d765e03197b1b0c9925cd5c771ce0475f06"
 libc = "glibc"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "d3a0cbdf82ade63655e23d0cf5f00a07e4a8efce422127e80bdfd24b84bdee9a"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.aarch64-linux-gnu-host+any.tar.gz"
+    sha256 = "7d41fa71c950aaa851adcc38066e1ff227eee6aa40cdb5644f62823c4c4f2647"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-aarch64-linux-gnu.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "aarch64"
-git-tree-sha1 = "1fed9cc1e3c6c3e33e34a7d5c4ceeb204ba588eb"
-host = "any"
+git-tree-sha1 = "82f18d765e03197b1b0c9925cd5c771ce0475f06"
 libc = "musl"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "790b45473093d5d8e9535d0176b1612de9834ba9f86d92d037bcbd736c63c57a"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.aarch64-linux-musl-host+any.tar.gz"
+    sha256 = "7d41fa71c950aaa851adcc38066e1ff227eee6aa40cdb5644f62823c4c4f2647"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-aarch64-linux-musl.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8ad011d963b9bbbc5152bd20c450f0ab69ea2252"
-host = "any"
+git-tree-sha1 = "899502162d14bffe69c1d79b7386cb707132d882"
 libc = "glibc"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "5289443b605c4cbf37b4f98a330585907f02e0519c63f0ea0258c90e23a8d8b6"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.armv6l-linux-gnueabihf-host+any.tar.gz"
+    sha256 = "504dde3a67b77b8c47ac0815d44407c7f0b121b117d76fafd1174170ae9d42a7"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-armv6l-linux-gnueabihf.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9bfdd90cfc4277e2647faca632680c2f08160674"
-host = "any"
+git-tree-sha1 = "899502162d14bffe69c1d79b7386cb707132d882"
 libc = "musl"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "717079d82ba50f73f110cf3c06d89fd6c1f5ead3f79b32593c2a307a5b9ce6cb"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.armv6l-linux-musleabihf-host+any.tar.gz"
+    sha256 = "504dde3a67b77b8c47ac0815d44407c7f0b121b117d76fafd1174170ae9d42a7"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-armv6l-linux-musleabihf.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4a64a08c8398e01bf8aee0b3ffa3ef38a7dfc529"
-host = "any"
+git-tree-sha1 = "899502162d14bffe69c1d79b7386cb707132d882"
 libc = "glibc"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "80c28caa12fce52b3386fdf88295e4573f79f45cdf0cacf240da48091fee6747"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.armv7l-linux-gnueabihf-host+any.tar.gz"
+    sha256 = "504dde3a67b77b8c47ac0815d44407c7f0b121b117d76fafd1174170ae9d42a7"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-armv7l-linux-gnueabihf.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d62c0f4eed418ae4bc6123596f82c6c3a55baa0e"
-host = "any"
+git-tree-sha1 = "899502162d14bffe69c1d79b7386cb707132d882"
 libc = "musl"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "08edae9eb501834b48ecaf560ec9f8e5c42d730079634d9a547d0c5b0951044c"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.armv7l-linux-musleabihf-host+any.tar.gz"
+    sha256 = "504dde3a67b77b8c47ac0815d44407c7f0b121b117d76fafd1174170ae9d42a7"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-armv7l-linux-musleabihf.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "i686"
-git-tree-sha1 = "debf6499173d343d96bca97485cfd8fce3a7692f"
-host = "any"
+git-tree-sha1 = "19f6ecf0026700f2960b1520567473fc4817cc70"
 libc = "glibc"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "476bf259c6311ae521af963e7143b67dcc9bacd2a31ce34b752104fed88166b5"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.i686-linux-gnu-host+any.tar.gz"
+    sha256 = "93c8e4e9fde0cf1d519313a8040f84f52cfb78f3dd2d5b751cb5705a0a44e483"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-i686-linux-gnu.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "i686"
-git-tree-sha1 = "3a1a08060417b2dbb8090748274b06110da0c2cf"
-host = "any"
+git-tree-sha1 = "19f6ecf0026700f2960b1520567473fc4817cc70"
 libc = "musl"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "2ecfbbf0a55b7d781febe1a3c95d9456c2b2cf81093be42872fd43dc0391b3ac"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.i686-linux-musl-host+any.tar.gz"
+    sha256 = "93c8e4e9fde0cf1d519313a8040f84f52cfb78f3dd2d5b751cb5705a0a44e483"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-i686-linux-musl.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "powerpc64le"
-git-tree-sha1 = "15879a9f7658b6697b9fd82ab25bf2d200e3ad38"
-host = "any"
+git-tree-sha1 = "0a915259296434105ab9a09f7108f71500f35dfc"
 libc = "glibc"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "e679f5fb3cc4300961e3dd793693e41d11cf955cb5250993a4e17a7323259692"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.powerpc64le-linux-gnu-host+any.tar.gz"
+    sha256 = "373cc3ffad9dd023c56fa668096fd54dbbd1923e559796b0eab0baca7428c2dd"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-powerpc64le-linux-gnu.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "x86_64"
-git-tree-sha1 = "dbb1dad7595be49f39e7237705572c7396418998"
-host = "any"
+git-tree-sha1 = "19f6ecf0026700f2960b1520567473fc4817cc70"
 libc = "glibc"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "d61693967af74ebbb58b488db2db64cd81c163e8e78685d595922ef626acd636"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.x86_64-linux-gnu-host+any.tar.gz"
+    sha256 = "93c8e4e9fde0cf1d519313a8040f84f52cfb78f3dd2d5b751cb5705a0a44e483"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-x86_64-linux-gnu.tar.gz"
 [[LinuxKernelHeaders]]
 arch = "x86_64"
-git-tree-sha1 = "03fde7f842dc366d23cddd5742447d095dda8bb0"
-host = "any"
+git-tree-sha1 = "19f6ecf0026700f2960b1520567473fc4817cc70"
 libc = "musl"
 os = "linux"
 
     [[LinuxKernelHeaders.download]]
-    sha256 = "d583370cbde14f28cea41612370318364b55474b09cec67a1fa81f6095e04526"
-    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v5.15.14+0/LinuxKernelHeaders.v5.15.14.x86_64-linux-musl-host+any.tar.gz"
+    sha256 = "93c8e4e9fde0cf1d519313a8040f84f52cfb78f3dd2d5b751cb5705a0a44e483"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-LinuxKernelHeaders-v6.9.0-x86_64-linux-musl.tar.gz"
+
+[[LinuxKernelHeaders-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "d3c3632bc7aa759add3b650dceb99d948d87d137"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "c8578bfcfafc00d89a1798fe3b70c055901abf602f40812bcb0604d4d96cc2ed"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-aarch64-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "78116d71040328b426f87dc55168f3d524551a3e"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "dd5deb60b177982f3ee5098aa0a2932b9ff6f39b40ddea423f998c08d3a12bd3"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-aarch64-linux-musl.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f8980f2fe0800949915cb1cfb070d53021d3b5d3"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "ad271c3b035edfd0dfb9b3c2fb4de5248233590ae5ae8ec9f7172672bb55481d"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-armv6l-linux-gnueabihf.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "760b1a43e7e0b78c2e5cf588bab87f9ea8c4d76c"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "3da6b5cb640a2d5e67d84534a26ed69f936832c0761d6ee2c9823a32770eed8c"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-armv6l-linux-musleabihf.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "419b07fde0856f46c84ca734f6f62a0ff63cb55b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "36e2aa59122833a7824d2ab1874c4fdb04a1db4350a4426718778606e0b3e85e"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-armv7l-linux-gnueabihf.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bc928264600d3d41b3e2e32a244af4c560caa178"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "84705295fa6a13b3d3f166c0b2fb5aa1a992cd4f39ba3494b3651c3c566b42f5"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-armv7l-linux-musleabihf.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "i686"
+git-tree-sha1 = "0612cd8df83bdc180b2c2d0f61fb1056a9df1e52"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "8d5a52e044119af281328907fc37288aee4c18d57464af0c7cf7e16a9d0e1cd6"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-i686-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "i686"
+git-tree-sha1 = "5bd3ec3f5f2fe78ef03848b058ac284f07d1f254"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "8bb8838d2a3aadb351bcf89cd6c3d48293ce97169c27c92fcdcb903e1d7b397a"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-i686-linux-musl.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "f12103d4601960f13ff4c48dde3c2bd08f60fe5a"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "8d368bc236b6d75fa37dc381af92177900dd6fbe810418bb0d0723387e34a516"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-powerpc64le-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "f13883cbc06cf67802cb183dd1f7477afed5333f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "986339595cb586a126a58dfea6dd459dbbf864417884ea43e87ca8e8420da5bf"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-x86_64-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "cfdf442b36b5cba2f6bb471ea1741f25f55f4e26"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-build_log.download]]
+    sha256 = "3d73e44fb66d2424093cdc4cb0429679c8412e83cf04e306e0e764a4a7649989"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-build_log-v6.9.0-x86_64-linux-musl.tar.gz"
+
+[[LinuxKernelHeaders-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "e0825a4b9430c57e541e1b3e997c3a146d3f2737"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "60cb09952ab7cee3426dc6f1762ab85ea6ffefce2ede034169014c87dcb3933a"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-aarch64-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "375f9442eabb006c00a62e12e94b039324b80182"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "ea8acd9913f1ef9d10b5af48bd80e48b94128db27fb33712529a38d7049cfad5"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-aarch64-linux-musl.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cfae517dfb631579fcb6a4fead1c22f55233e1b6"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "f879e7b02dc22bdec4ffa5ca96c4d140c4f813859244978281ff5559511c9f3c"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-armv6l-linux-gnueabihf.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "33fc6a4b3b41bbe8248268650493481d1ecc8cba"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "f434b38449636bfa6a8ec16eafb7f8fa6188f36a74ae0ce55f78802875e3d119"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-armv6l-linux-musleabihf.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1fae37e9ee3fb9fb9890c19c83489c78e44a8a6b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "2e2271acffebc88dfbd41788e8d494e096476956f9c2226393bfe3ba19b6f506"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-armv7l-linux-gnueabihf.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6aecd669d65e189a62c7c193de9a546ba11bb974"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "ab7445b8a0908674571160ba4e94b79013b2681534047a19326d232d2cc7b299"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-armv7l-linux-musleabihf.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "i686"
+git-tree-sha1 = "c393e214bf8562eb78c48c782805aff261a94326"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "9e93634ba2ffcf615ebdbf88c967a1a76e91b921bad370202925ad2950cca119"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-i686-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "i686"
+git-tree-sha1 = "9b7057a0b2c2bc96d131b9771e4da43c2e3b930a"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "29db0c7d234045f9ff1ce0c29e5d4234f0a627482455d086ec87f95d66e52564"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-i686-linux-musl.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "d0c11be638f4e4ed0b6e74b7e7097448345a16db"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "e524d503e28693ccf4b5a9771803edb8e889f3d803a72eab186cacbfcee9559a"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-powerpc64le-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "e551c00473070eae597e33dea9c64da3abfb9324"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "acf5acdf10e4f5df2193e1db4b57d943dfdc168ea3f97e61163a9cb5b02484da"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-x86_64-linux-gnu.tar.gz"
+[[LinuxKernelHeaders-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "ec297e56648aca270ec0e3926efe55155dfd0c1f"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LinuxKernelHeaders-extract_log.download]]
+    sha256 = "b9d8c4a961bb4d914f1fd0488118d256a2ca669f3999d96ee4cfd9cc973c5977"
+    url = "https://github.com/JuliaBinaryWrappers/LinuxKernelHeaders_jll.jl/releases/download/LinuxKernelHeaders-v6.9.0/LinuxKernelHeaders-extract_log-v6.9.0-x86_64-linux-musl.tar.gz"
